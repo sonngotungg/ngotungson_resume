@@ -99,7 +99,7 @@ body{
 }
 
 .skills ul li .skill_item .icon{
-  background: url("https://i.imgur.com/mDkWgya.png") no-repeat -1px 0;
+  /* background: url("https://i.imgur.com/mDkWgya.png") no-repeat -1px 0; */
   width: 20px;
   height: 22px;
   margin: 0 auto 5px;
